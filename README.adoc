@@ -18,6 +18,7 @@ image:https://github.com/ifto-palmas/testes-de-software/workflows/asciidoctor-gh
 ====
 - Se você não pretende fazer alterações neste repositório e contribuir de volta para o projeto, não faça fork. Se fizer, sempre que o projeto for atualizado, você vai ficar com uma cópia absoleta. Se você que apenas baixar para navegar ou fazer alterações localmente, faça um clone no botão `Code` acima.
 - Se você quer apenas salvar o projeto para consulta posterior, use o botão `Star` ⭐️ acima. Isto ainda ajuda a divulgar o material.
+- Você pode baixar uma versão sempre atualizada em PDF deste material https://github.com/ifto-palmas/testes-de-software/blob/gh-pages/ebook.pdf[aqui].
 ====
 endif::[]
 
@@ -29,6 +30,3 @@ endif::[]
 . link:ebook/cap5-tipos_de_teste.adoc[Capítulo 5 - Tipos de Teste]
 . link:ebook/cap6-plano_de_teste.adoc[Capítulo 6 - Plano de Teste]
 . link:ebook/bibliografia.adoc[Bibliografia]
-
-IMPORTANT: Você pode baixar uma versão sempre atualizada em PDF deste material https://github.com/ifto-palmas/testes-de-software/blob/gh-pages/ebook.pdf[aqui].
-
